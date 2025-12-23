@@ -1,8 +1,6 @@
-<<<<<<< HEAD
-# rpa-gmail-auto-reply
 RPA simples em Python para resposta automática de e-mails no Gmail
 =======
-# RPA – Resposta Automática de E-mails (Gmail)
+
 
 Projeto simples de RPA em Python que automatiza a leitura de e-mails não lidos no Gmail e envia respostas automáticas com base em palavras-chave no assunto.
 

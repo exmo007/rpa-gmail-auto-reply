@@ -42,6 +42,3 @@ Benefícios:
 Economia de tempo
 Padronização de respostas
 Redução de erros humanos
-
-
->>>>>>> 46df477 (Padroniza nomes de arquivos e corrige encoding)
